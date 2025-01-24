@@ -1,6 +1,7 @@
 {
   "gitSyncId": "678e072094bc2e43fa935346_6cf85f43-c92d-47f2-ba84-2cc6373f3679",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
@@ -26,7 +27,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "qassis",
+    "slug": "qassis"
   }
 }
