@@ -1,12 +1,12 @@
 {
-  "gitSyncId": "678e072094bc2e43fa935346_6cf85f43-c92d-47f2-ba84-2cc6373f3679",
+  "gitSyncId": "678e072094bc2e43fa935346_37588ee2-33f4-475b-9fef-5453a817cf5b",
   "unpublishedPage": {
     "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 600,
+          "bottomRow": 1080,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -27,7 +27,7 @@
         }
       }
     ],
-    "name": "qassis",
-    "slug": "qassis"
+    "name": "Dashboard",
+    "slug": "dashboard"
   }
 }

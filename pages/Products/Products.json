@@ -1,24 +1,23 @@
 {
-  "gitSyncId": "678e072094bc2e43fa935346_6cf85f43-c92d-47f2-ba84-2cc6373f3679",
+  "gitSyncId": "678e072094bc2e43fa935346_d1e41528-e8d2-413b-bed0-0e239a5dc307",
   "unpublishedPage": {
     "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 600,
+          "bottomRow": 1120,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
-          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 1010,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 99,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 91,
@@ -27,7 +26,7 @@
         }
       }
     ],
-    "name": "qassis",
-    "slug": "qassis"
+    "name": "Products",
+    "slug": "products"
   }
 }

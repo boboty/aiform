@@ -3,7 +3,7 @@
   "borderOpacity": 100,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "borderWidth": 1,
-  "bottomRow": 77,
+  "bottomRow": 53,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "dynamicBindingPathList": [
     {
@@ -24,8 +24,10 @@
   "mobileRightColumn": 28,
   "mobileTopRow": 22,
   "needsErrorInfo": false,
+  "originalBottomRow": 77,
+  "originalTopRow": 40,
   "parentColumnSpace": 11.578125,
-  "parentId": "0",
+  "parentId": "uo4k1bnqos",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
@@ -33,9 +35,9 @@
   "source": "http://tcc.beltoo.vip/chatbot/ev2ttMeAHTh5Cenl",
   "srcDoc": "",
   "title": "合规助手",
-  "topRow": 7,
+  "topRow": 0,
   "type": "IFRAME_WIDGET",
   "version": 1,
   "widgetId": "esnerf1u3q",
-  "widgetName": "Iframe1"
+  "widgetName": "dify_hgzs"
 }
